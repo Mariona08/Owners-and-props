@@ -4,7 +4,6 @@ public class Boat extends Prop {
     private float length;
     private boolean navigable;
 
-
     public Boat(String propID, String address, String city, float length) {
         super(propID, address, city);
         this.length = length;
