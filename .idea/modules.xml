@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Memoria/Memoria.iml" filepath="$PROJECT_DIR$/Memoria/Memoria.iml" />
       <module fileurl="file://$PROJECT_DIR$/owners and props.iml" filepath="$PROJECT_DIR$/owners and props.iml" />
     </modules>
   </component>
